@@ -1,0 +1,7 @@
+{
+  "name": "Isha Dental Care",
+  "description": "Isha Dental Care Clinic provides modern, compassionate dental care including general dentistry, implants, root canals, teeth whitening and cosmetic dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
